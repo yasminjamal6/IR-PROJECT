@@ -1,0 +1,20 @@
+{
+  "1400399284": {
+    "user_id": 1400399284,
+    "preferred_cities": [
+      "רמלה"
+    ],
+    "preferred_streets": [
+      "שדרות הציונות"
+    ],
+    "preferred_neighborhoods": []
+  },
+  "8009837278": {
+    "user_id": 8009837278,
+    "preferred_cities": [],
+    "preferred_streets": [],
+    "preferred_neighborhoods": [
+      "נשר"
+    ]
+  }
+}
